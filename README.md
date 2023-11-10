@@ -9,18 +9,8 @@ PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pair
 ##########################################################
 
 **Requirements**
+you can run the code under the following environment: Keras 2.14.0, Tensorflow 2.14.0, and Python 3.10.12.
 
-Python 3.8
-
-Tensorflow 0.12.0
-
-Keras (1.1 or higher)
-
-Scipy 1.3.2
-
-NumPy
-
-Keras-gcn (download and install it-download link:https://github.com/tkipf/keras-gcn) 
 ##########################################################
 
 **Data**
