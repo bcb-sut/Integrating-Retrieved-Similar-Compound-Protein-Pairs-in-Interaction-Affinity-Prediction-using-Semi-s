@@ -41,6 +41,7 @@ At first, Keras-gcn should be installed. The hyperparameters are set in the conf
 ##########################################################
 
 **Hint**
+
 we have modified the ‘kegra’ package, and we have uploaded this package to our repository. This package has been downloaded from this link, and if you use our code, you should cite our paper and their paper. You should cite their paper as follows:
 @inproceedings{kipf2017semi,
   title={Semi-Supervised Classification with Graph Convolutional Networks},
