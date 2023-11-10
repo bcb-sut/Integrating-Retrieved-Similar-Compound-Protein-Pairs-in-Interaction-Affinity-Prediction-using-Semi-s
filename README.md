@@ -38,3 +38,13 @@ https://drive.google.com/open?id=15KotSJWknMOAnHM68RpOh_rqMISsMwsE
 **Usage**
 
 At first, Keras-gcn should be installed. The hyperparameters are set in the config.py file. You can select Davis, KIBA, PDBind, and BindingDB datasets in this file. Also, The other hyperparameters could be set to your desired values. Then, you can run the sgcn.py.
+##########################################################
+**Hint**
+we have modified the ‘kegra’ package, and we have uploaded this package to our repository.This package has been downloaded from this link, and if you use our code, you should cite our paper and their paper. you should cite their paper as follows:
+@inproceedings{kipf2017semi,
+  title={Semi-Supervised Classification with Graph Convolutional Networks},
+  author={Kipf, Thomas N. and Welling, Max},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2017}
+}}
+
