@@ -1,10 +1,9 @@
-# PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network
-PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network
-# PLA-SGCN
+# Enhancing Protein-Ligand Binding Affinity Prediction via Hard Pair Retrieval and Semi-Supervised Graph Convolutional Networks
+# Enhancing Protein-Ligand 
 ########################################################## 
 
 The source code for
-PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network
+Enhancing Protein-Ligand Binding Affinity Prediction via Hard Pair Retrieval and Semi-Supervised Graph Convolutional Networks
 
 ##########################################################
 
